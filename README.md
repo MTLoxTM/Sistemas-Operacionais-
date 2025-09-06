@@ -15,3 +15,7 @@ Este repositório contém anotações, códigos e exemplos relacionados ao estud
 - Referências
 
 > Concluído
+
+[Sistemas Operacionais (2).pdf](https://github.com/user-attachments/files/22192252/Sistemas.Operacionais.2.pdf)
+
+
